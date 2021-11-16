@@ -232,9 +232,6 @@ ul{
     font-family: "Montserrat";
     text-align: center;
 }
-.second_header{
-
-}
 .all{
     display: flex;
     flex-direction: row;
@@ -371,4 +368,277 @@ ul{
     -webkit-box-shadow: 0px 2px 8px 16px rgba(223, 187, 0, 0.2);
     -moz-box-shadow: 0px 2px 8px 16px rgba(223, 187, 0, 0.2);
     box-shadow: 0px 2px 8px 16px rgba(223, 187, 0, 0.2);
+}
+.fourth_page{
+    margin-top: 300px;
+    height: 1000px;
+}
+.fourth_page_main_text{
+    position: relative;
+    left: 350px;
+    font-size: 30px;
+    color: #555555;
+    font-weight: 600;
+    font-family: "Raleway";
+}
+.fourth_page_main_desc{
+    position: relative;
+    top: 40px;
+    right: 100px;
+    width: 770px;
+    height: 65px;
+    font-size: 16px;
+    line-height: 28px;
+    color: #8c8c8c;
+    font-weight: 300;
+    font-family: "Montserrat";
+}
+.fourth_page_main_desc2{
+    position: relative;
+    left: 360px;
+}
+.fourth_page_buttons{
+    display: flex;
+    flex-direction: row;
+    margin-top: 80px;
+    margin-left: 200px;
+}
+.first_box{
+    width: 100px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    font-family: "Montserrat";
+    text-align: center;
+    border: 1px solid #ebebeb;
+    border-radius: 10px;
+    transition: 0.25s;
+}
+.first_box:hover{
+    transition: 0.25s;
+    -webkit-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    -moz-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+}
+.box_a{
+    text-decoration: none;
+    color: #8c8c8c;
+}
+.second_box{
+    width: 100px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    font-family: "Montserrat";
+    text-align: center;
+    border: 1px solid #ebebeb;
+    margin-left: 10px;
+    border-radius: 10px;
+    transition: 0.25s;
+}
+.second_box:hover{
+    transition: 0.25s;
+    -webkit-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    -moz-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+}
+.third_box{
+    width: 100px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    font-family: "Montserrat";
+    text-align: center;
+    border: 1px solid #ebebeb;
+    margin-left: 10px;
+    border-radius: 10px;
+    transition: 0.25s;
+}
+.third_box:hover{
+    transition: 0.25s;
+    -webkit-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    -moz-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+}
+.fourth_box{
+    width: 100px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    font-family: "Montserrat";
+    text-align: center;
+    border: 1px solid #ebebeb;
+    margin-left: 10px;
+    border-radius: 10px;
+    transition: 0.25s;
+}
+.fourth_box:hover{
+    transition: 0.25s;
+    -webkit-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    -moz-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+}
+.fiveth_box{
+    width: 100px;
+    height: 20px;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 300;
+    font-family: "Montserrat";
+    text-align: center;
+    border: 1px solid #ebebeb;
+    margin-left: 10px;
+    border-radius: 10px;
+    transition: 0.25s;
+}
+.fiveth_box:hover{
+    transition: 0.25s;
+    -webkit-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    -moz-box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+    box-shadow: 2px 3px 8px 6px rgba(48, 48, 49, 0.2);
+}
+.fourth_page_images{
+    margin-top: 60px;
+    margin-left: 50px;
+}
+.first_img_text{
+    position: relative;
+    top: -5px;
+    background-color: #fbfaf8;
+    width: 250px;
+    height: 70px;
+    transition: 0.5s;
+}
+.first_img_text:hover{
+    background-color: #352f2d;
+    transition: 0.5s;
+}
+.fourth_text_first{
+    position: relative;
+    top: 10px;
+    left: 15px;
+    width: 312px;
+    height: 27px;
+    font-size: 15px;
+    color: #c7b299;
+    font-weight: 500;
+    font-family: "Raleway";
+}
+.fourth_desc_first{
+    position: relative;
+    top: 30px;
+    right: 158px;
+    font-size: 9px;
+    line-height: 20px;
+    color: #d1d1d1;
+    font-weight: 300;
+    font-family: "Montserrat";
+}
+.fourth_page_images_inner{
+    display: flex;
+    flex-direction: row;
+}
+.second_img_fourth_page{
+    margin-left: 30px;
+}
+.fourth_desc_second{
+    position: relative;
+    top: 30px;
+    right: 145px;
+    font-size: 9px;
+    line-height: 20px;
+    color: #d1d1d1;
+    font-weight: 300;
+    font-family: "Montserrat";
+    transition: 0.5s;
+}
+.third_img_fourth_page{
+    margin-left: 30px;
+}
+.fourth_desc_third{
+    position: relative;
+    top: 30px;
+    right: 148px;
+    font-size: 9px;
+    line-height: 20px;
+    color: #d1d1d1;
+    font-weight: 300;
+    font-family: "Montserrat";
+    transition: 0.5s;
+}
+.third_img_text{
+    position: relative;
+    top: -5px;
+    background-color: #fbfaf8;
+    width: 250px;
+    height: 70px;
+    transition: 0.5s;
+    flex-direction: column;
+}
+.third_img_text:hover{
+    background-color: #352f2d;
+    transition: 0.5s;
+}
+.fourth_img_fourth_page{
+    position: relative;
+    left: -560px;
+}
+.fourth_desc_fourth{
+    position: relative;
+    top: 15px;
+    left: 15px;
+    font-size: 9px;
+    line-height: 20px;
+    color: #d1d1d1;
+    font-weight: 300;
+    font-family: "Montserrat";
+    transition: 0.5s;
+}
+.fourth_desc_fourth{
+    display: flex;
+    flex-direction: row;
+}
+.fourth_desc_fiveth{
+    position: relative;
+    top: 30px;
+    right: 148px;
+    font-size: 9px;
+    line-height: 20px;
+    color: #d1d1d1;
+    font-weight: 300;
+    font-family: "Montserrat";
+    transition: 0.5s;
+}
+.five_img_fourth_page{
+    position: relative;
+    right: 280px;
+    bottom: 235px;
+}
+.sixth_img_fourth_page{
+    position: relative; 
+    left: 2px;
+    bottom: 470px;
+}
+.button_book{
+    position: relative;
+
+}
+.button_f{
+    font-size: 14px;
+    line-height: 23px;
+    color: #ffffff;
+    font-weight: 800;
+    font-family: "Raleway";
+    text-decoration: none;
+    background-color:#998675;
+    padding: 15px 35px;
+    border-radius: 5px;
+    transition: 0.25s;
+    position: relative;
+    right: 250px;
+    top: 100px;
 }
